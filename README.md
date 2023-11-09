@@ -10,8 +10,8 @@ To begin using this interface, follow these steps:
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/arham-kk/your-repository.git
-    cd your-repository
+    git clone https://github.com/arham-kk/openai-tts.git
+    cd openai-tts
     ```
 
 2. Install the required dependencies.
